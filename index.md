@@ -8,11 +8,9 @@ Here is a list of projects that I am working on:
 I'm interested in learning about computers.
 # My Blogd
 <ul>
-Hi there.
 {% for post in site.posts %}
 <li>
-Hello
-<p>{{ post.title }}</p>
+<a href="{{ post.url }}">{{ post.titles }}</a>
 </li>
 {% endfor %}
 By there.
