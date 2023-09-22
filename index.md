@@ -6,11 +6,11 @@ layout:  default
 Here is a list of projects that I am working on:
 # My Interests
 I'm interested in learning about computers.
-# My Blogd
+# My Blog
 <ul>
 {% for post in site.posts %}
 <li>
-<a href="{{ post.url }}">{{ post.titles }}</a>
+<a href="{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}
 By there.
