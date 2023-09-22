@@ -1,3 +1,7 @@
+---
+layout:  default
+---
+
 # My Projects
 Here is a list of projects that I am working on:
 # My Interests
