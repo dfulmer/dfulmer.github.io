@@ -1,5 +1,5 @@
 title:  David Fulmer
 description:  Description
 github_username:  dfulmer
-# theme: minima
-theme:  jekyll-theme-cayman
+theme: minima
+# theme:  jekyll-theme-cayman
