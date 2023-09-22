@@ -4,9 +4,12 @@ Here is a list of projects that I am working on:
 I'm interested in learning about computers.
 # My Blogc
 <ul>
+Hi there.
 {% for post in site.posts %}
 <li>
+Hello
 <a href="{{ post.url }}">{{ post.title }}</a>
+{{ post.content }}
 </li>
 {% endfor %}
 </ul>
