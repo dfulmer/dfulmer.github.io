@@ -2,14 +2,13 @@
 Here is a list of projects that I am working on:
 # My Interests
 I'm interested in learning about computers.
-# My Blogc
+# My Blogd
 <ul>
 Hi there.
 {% for post in site.posts %}
 <li>
 Hello
-<a href="{{ post.url }}">{{ post.title }}</a>
-{{ post.content }}
+<p>{{ post.title }}</p>
 </li>
 {% endfor %}
 </ul>
