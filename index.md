@@ -2,7 +2,7 @@
 Here is a list of projects that I am working on:
 # My Interests
 I'm interested in learning about computers.
-# My Blog
+# My Bloga
 <ul>
 {% for post in site.posts %}
 <li>
