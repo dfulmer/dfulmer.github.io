@@ -13,7 +13,6 @@ I'm interested in learning about computers.
 <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}
-By there.
 </ul>
 # Get in Touch
 <ul>
