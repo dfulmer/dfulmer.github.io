@@ -2,10 +2,11 @@
 layout:  default
 ---
 <style>
-  .footer {
+  .site-footer {
     display: none;
   }
 </style>
+
 
 # About Me
 I'm a programmer at the University of Michigan's Harlan Hatcher Graduate Library, where I develop software and integrations that support library operations.
